@@ -1,0 +1,19 @@
+header{
+    background-image: url("índice.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    background-position: center;
+}
+header>ul{
+    position: absolute;
+    left: 800px;
+    top: 100px;
+}
+header>ul>li{
+    display: inline-flex;
+    list-style: none;
+    font-size: 30px;
+    color: rgb(255, 9, 9);
+    margin: 10px;
+}

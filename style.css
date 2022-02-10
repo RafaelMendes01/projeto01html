@@ -20,3 +20,20 @@ header>ul>li{
 main{
     background-color: rgb(84, 84, 194);
 }
+aside{
+    float: left;
+    background-color: brown;
+    width: 400px;
+    height: 950px;
+}
+aside>ul{
+    position: absolute;
+    left: 100px;
+    top: 650px;
+}
+aside>ul>li{
+    color: white;
+    list-style:none;
+    font-size: 40px;
+    margin-top: 20px;
+}

@@ -37,3 +37,12 @@ aside>ul>li{
     font-size: 40px;
     margin-top: 20px;
 }
+footer{
+    background-color: black;
+    position: absolute;
+    width: 1340px;;
+}
+footer>h1{
+    color: white;
+    text-align: center;
+}
